@@ -1,5 +1,12 @@
 # Datasets and open source projects related to Climate Change
 
+## ML/AI open projects
+
+|  **name** | **url** | **description** |
+| --- | --- | --- |
+|  Open Climate Fix | https://openclimatefix.org | Open Climate Fix is a new non-profit research and development lab using an open-source approach to search for ML problems where, if we solve a well-defined ML task, then there is likely to be a large climate impact. |
+|  Climate Change AI | https://climatechange.ai | Climate Change AI aims to facilitate work at the nexus of climate change and machine learning. |
+
 ## APIs
 
 |  **name** | **url** | **sector** | **description** | **existing-r-pkg** |
