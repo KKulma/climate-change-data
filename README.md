@@ -6,6 +6,7 @@
 | --- | --- | --- |
 |  Open Climate Fix | [LINK](https://openclimatefix.org) | Open Climate Fix is a new non-profit research and development lab using an open-source approach to search for ML problems where, if we solve a well-defined ML task, then there is likely to be a large climate impact. |
 |  Climate Change AI | [LINK](https://climatechange.ai) | Climate Change AI aims to facilitate work at the nexus of climate change and machine learning. |
+|  Mattermore | [LINK](https://www.mattermore.io/) | Our mission is to bring the best and the brightest together to build data-driven solutions to climate change |
 
 ## APIs
 |  **name** | **url** | **sector** | **description** | **existing-r-pkg** |
@@ -36,9 +37,10 @@
 |  CO2 Emissions from Fossil Fuels since 1751, By Nation | [LINK](https://datahub.io/core/co2-fossil-by-nation) | CO2 emissions | Per Country CO2 Emissions from fossil-fuels annually since 1751 till 2014. Data Data comes from the Carbon Dioxide Information Analysis Center (CDIAC). |
 |  CO2 PPM - Trends in Atmospheric Carbon Dioxide | [LINK](https://datahub.io/core/co2-ppm#r) | CO2 emissions | CO2 PPM - Trends in Atmospheric Carbon Dioxide. Data are sourced from the US Government's Earth System Research Laboratory, Global Monitoring Division. |
 |  Data World Data | [LINK](https://data.world/datasets/global-warming) | various | A range of environmental, geospatial, weather, air, etc. open datasets |
+|  Environmental Intelligence | [LINK](https://github.com/rockita/Environmental_Intelligence) | various | A GitHub repo collating numerous open data resources on climate change, water, forest, biodiversity, etc. |
 |  Glacier Mass balance data | [LINK](https://datahub.io/core/glacier-mass-balance) | glaciers | Average cumulative mass balance of "reference" Glaciers worldwide from 1945-2014 sourced from US EPA and the World Glacier Monitoring Service (WGMS). |
 |  Global Climate Change Data | [LINK](https://data.world/data-society/global-climate-change-data) | air temperature | Average land temperature data from 1750－2015 |
-|  Global Gridded Weather Data | [LINK](https://crudata.uea.ac.uk/cru/data/hrg/) | temperature, precipitation, sun time, cloud cover, ground frost, vapour pressure, potential evapotranspiration | A large set of land weather data spanning 1901-2018, gridded into 0.5x0.5 deg squares. Data extrapolated from real weather station data. Details in: [LINK](https://doi.org/10.1002/joc.3711) |
+|  Global Gridded Weather Data | [LINK](https://crudata.uea.ac.uk/cru/data/hrg/) | temperature, precipitation, sun time, cloud cover, ground frost, vapour pressure, potential evapotranspiration | A large set of land weather data spanning 1901-2018, gridded into 0.5x0.5 deg squares. Data extrapolated from real weather station data. Details in: [LINK](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.3711) |
 |  Global Temperature Time Series | [LINK](https://datahub.io/core/global-temp#r) | air temperature | Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies [i.e. deviations from the corresponding 1951-1980 means]. Global-mean monthly […] and annual means, 1880-present, updated through most recent month. |
 |  Greenhouse gas emissions per 1000 kilocalories | [LINK](https://ourworldindata.org/grapher/ghg-kcal-poore) | CO2 emissions | Greenhouse gas emissions are measured in kilograms of carbon dioxide equivalents (kgCO₂eq) per 1000 kilocalories. |
 |  How many gigatons of CO2...? | [LINK](https://informationisbeautiful.net/visualizations/how-many-gigatons-of-co2/) | CO2 emissions | Data on CO2 remaining budget - Information Is Beautiful data vis with references to underlying data sources |
