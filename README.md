@@ -12,15 +12,15 @@
 | --- | --- | --- | --- | --- |
 |  Air Quality Index API | http://aqicn.org/api/ | air quality | Air Quality Programmatic APIs offering Air quality Index data for more than 11000 station-level and 1000 city-level data |  |
 |  AQI API | https://www.airvisual.com/air-pollution-data-api | air quality | Drive innovation through accurate, local air quality and weather data |  |
-|  Breezometer API | https://docs.breezometer.com/api-documentation/introduction/#access-permissions-and-limits | air quality | Air-Quality, Pollen, and Weather APIs |  |
-|  Brighter Planet API | http://impact.brighterplanet.com/?r= | carbon emissions | CM1 can assess CO2 emissions for a wide variety of activities, from transportation to computation to supply chains |  |
+|  Breezometer API | https://docs.breezometer.com/api-documentation/ | air quality | Air-Quality, Pollen, and Weather APIs |  |
+|  Brighter Planet API | http://impact.brighterplanet.com/ | carbon emissions | CM1 can assess CO2 emissions for a wide variety of activities, from transportation to computation to supply chains |  |
 |  Clean Power Research API | https://developers.cleanpower.com/ | energy | Irradiance and Weather Data API |  |
 |  Degree Days API | https://www.degreedays.net/api/ | weather | Weather Data for Energy Professionals |  |
 |  National Centers for Environmental Information | https://www.ncdc.noaa.gov/data-access | various | NCEI is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available. Detailed descriptions of the available products and platforms are on their website. | https://github.com/ropensci/rnoaa |
 |  Noise Tube API | http://noisetube.net/api_overview | noise | Data on noise pollution |  |
 |  Open AQ API | https://docs.openaq.org/ | air quality | An API for open air quality data | https://github.com/ropensci/ropenaq |
 |  Open Charge Map API | https://openchargemap.org/site/develop#api | energy | The global public registry of electric vehicles charging locations |  |
-|  Planet OS API | https://data.planetos.com/?_ga=2.11167284.1285555397.1580183579-715137525.1580183579 | various | Weather, climate and environmental data |  |
+|  Planet OS API | https://data.planetos.com/ | various | Weather, climate and environmental data |  |
 |  The National Renewable Energy Laboratory | https://developer.nrel.gov/ | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
 |  United States Environmental Protection Agency | https://edg.epa.gov/metadata/catalog/components/components.page# | various | Access to EPA's rich datasets |  |
 |  Waterservices USGS API | https://waterservices.usgs.gov/rest/ | water | The service lets you acquire near real-time water data from thousands of sites managed or monitored by the USGS across the US. |  |
