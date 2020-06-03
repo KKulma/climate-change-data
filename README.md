@@ -13,22 +13,23 @@
 ## APIs
 |  **name** | **url** | **sector** | **description** | **existing-r-pkg** |
 | --- | --- | --- | --- | --- |
-|  Air Quality Index API | [LINK](http://aqicn.org/api/) | air quality | Air Quality Programmatic APIs offering Air quality Index data for more than 11000 station-level and 1000 city-level data |  |
-|  AQI API | [LINK](https://www.airvisual.com/air-pollution-data-api) | air quality | Drive innovation through accurate, local air quality and weather data |  |
-|  Breezometer API | [LINK](https://docs.breezometer.com/api-documentation/) | air quality | Air-Quality, Pollen, and Weather APIs |  |
-|  Brighter Planet API | [LINK](http://impact.brighterplanet.com/) | carbon emissions | CM1 can assess CO2 emissions for a wide variety of activities, from transportation to computation to supply chains |  |
-|  Clean Power Research API | [LINK](https://developers.cleanpower.com/) | energy | Irradiance and Weather Data API |  |
-|  Degree Days API | [LINK](https://www.degreedays.net/api/) | weather | Weather Data for Energy Professionals |  |
-|  National Centers for Environmental Information | [LINK](https://www.ncdc.noaa.gov/data-access) | various | NCEI is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available. Detailed descriptions of the available products and platforms are on their website. | [LINK](https://github.com/ropensci/rnoaa) |
-|  Noise Tube API | [LINK](http://noisetube.net/api_overview) | noise | Data on noise pollution |  |
-|  Open AQ API | [LINK](https://docs.openaq.org/) | air quality | An API for open air quality data | [LINK](https://github.com/ropensci/ropenaq) |
-|  Open Charge Map API | [LINK](https://openchargemap.org/site/develop#api) | energy | The global public registry of electric vehicles charging locations |  |
-|  Planet OS API | [LINK](https://data.planetos.com/) | various | Weather, climate and environmental data |  |
-|  The National Renewable Energy Laboratory | [LINK](https://developer.nrel.gov/) | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
-|  United States Environmental Protection Agency | [LINK](https://edg.epa.gov/metadata/catalog/components/components.page#) | various | Access to EPA's rich datasets |  |
-|  Waterservices USGS API | [LINK](https://waterservices.usgs.gov/rest/) | water | The service lets you acquire near real-time water data from thousands of sites managed or monitored by the USGS across the US. |  |
-|  WattzOn Link API | [LINK](https://www.wattzon.com/api/link-energy/) | energy | WattzOn Link is a software-as-a-service (SaaS) platform for retrieving billing and usage data from utility providers |  |
-|  WattzOn Snap API | [LINK](https://www.wattzon.com/api/snap/) | energy | WattzOn Snap is a software-as-a-service (SaaS) platform for extracting usage data from images of bills from residential utility providers. |  |
+|  Air Quality Index API | [LINK](http://aqicn.org/api/ "LINK") | air quality | Air Quality Programmatic APIs offering Air quality Index data for more than 11000 station-level and 1000 city-level data |  |
+|  AQI API | [LINK](https://www.airvisual.com/air-pollution-data-api "LINK") | air quality | Drive innovation through accurate, local air quality and weather data |  |
+|  Breezometer API | [LINK](https://docs.breezometer.com/api-documentation/introduction/#access-permissions-and-limits "LINK") | air quality | Air-Quality, Pollen, and Weather APIs |  |
+|  Brighter Planet API | [LINK](http://impact.brighterplanet.com/?r= "LINK") | carbon emissions | CM1 can assess CO2 emissions for a wide variety of activities, from transportation to computation to supply chains |  |
+|  Carbon Intensity API | LINK | carbon intensity | Data and 96+ hour forecast of carbon intensity and generation mix for each country/region/postcode in the UK | LINK |
+|  Clean Power Research API | [LINK](https://developers.cleanpower.com/ "LINK") | energy | Irradiance and Weather Data API |  |
+|  Degree Days API | [LINK](https://www.degreedays.net/api/ "LINK") | weather | Weather Data for Energy Professionals |  |
+|  National Centers for Environmental Information | [LINK](https://www.ncdc.noaa.gov/data-access "LINK") | various | NCEI is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available. Detailed descriptions of the available products and platforms are on their website. | LINK |
+|  Noise Tube API | [LINK](http://noisetube.net/api_overview "LINK") | noise | Data on noise pollution |  |
+|  Open AQ API | [LINK](https://docs.openaq.org/ "LINK") | air quality | An API for open air quality data | LINK |
+|  Open Charge Map API | [LINK](https://openchargemap.org/site/develop#api "LINK") | energy | The global public registry of electric vehicles charging locations |  |
+|  Planet OS API | [LINK](https://data.planetos.com/?_ga=2.11167284.1285555397.1580183579-715137525.1580183579 "LINK") | various | Weather, climate and environmental data |  |
+|  The National Renewable Energy Laboratory | [LINK](https://developer.nrel.gov/ "LINK") | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
+|  United States Environmental Protection Agency | [LINK](https://edg.epa.gov/metadata/catalog/components/components.page# "LINK") | various | Access to EPA's rich datasets |  |
+|  Waterservices USGS API | [LINK](https://waterservices.usgs.gov/rest/ "LINK") | water | The service lets you acquire near real-time water data from thousands of sites managed or monitored by the USGS across the US. |  |
+|  WattzOn Link API | [LINK](https://www.wattzon.com/api/link-energy/ "LINK") | energy | WattzOn Link is a software-as-a-service (SaaS) platform for retrieving billing and usage data from utility providers |  |
+|  WattzOn Snap API | [LINK](https://www.wattzon.com/api/snap/ "LINK") | energy | WattzOn Snap is a software-as-a-service (SaaS) platform for extracting usage data from images of bills from residential utility providers. |  |
 
 ## Open Data
 
