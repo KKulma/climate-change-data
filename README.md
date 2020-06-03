@@ -17,12 +17,12 @@
 |  AQI API | [LINK](https://www.airvisual.com/air-pollution-data-api "LINK") | air quality | Drive innovation through accurate, local air quality and weather data |  |
 |  Breezometer API | [LINK](https://docs.breezometer.com/api-documentation/introduction/#access-permissions-and-limits "LINK") | air quality | Air-Quality, Pollen, and Weather APIs |  |
 |  Brighter Planet API | [LINK](http://impact.brighterplanet.com/?r= "LINK") | carbon emissions | CM1 can assess CO2 emissions for a wide variety of activities, from transportation to computation to supply chains |  |
-|  Carbon Intensity API | LINK | carbon intensity | Data and 96+ hour forecast of carbon intensity and generation mix for each country/region/postcode in the UK | LINK |
+|  Carbon Intensity API | [LINK](https://carbonintensity.org.uk/ "LINK") | carbon intensity | Data and 96+ hour forecast of carbon intensity and generation mix for each country/region/postcode in the UK | [LINK](https://github.com/KKulma/intensegRid "LINK") |
 |  Clean Power Research API | [LINK](https://developers.cleanpower.com/ "LINK") | energy | Irradiance and Weather Data API |  |
 |  Degree Days API | [LINK](https://www.degreedays.net/api/ "LINK") | weather | Weather Data for Energy Professionals |  |
-|  National Centers for Environmental Information | [LINK](https://www.ncdc.noaa.gov/data-access "LINK") | various | NCEI is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available. Detailed descriptions of the available products and platforms are on their website. | LINK |
+|  National Centers for Environmental Information | [LINK](https://www.ncdc.noaa.gov/data-access "LINK") | various | NCEI is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available. Detailed descriptions of the available products and platforms are on their website. | [LINK](https://github.com/ropensci/rnoaa "LINK") |
 |  Noise Tube API | [LINK](http://noisetube.net/api_overview "LINK") | noise | Data on noise pollution |  |
-|  Open AQ API | [LINK](https://docs.openaq.org/ "LINK") | air quality | An API for open air quality data | LINK |
+|  Open AQ API | [LINK](https://docs.openaq.org/ "LINK") | air quality | An API for open air quality data | [LINK](https://github.com/ropensci/ropenaq "LINK") |
 |  Open Charge Map API | [LINK](https://openchargemap.org/site/develop#api "LINK") | energy | The global public registry of electric vehicles charging locations |  |
 |  Planet OS API | [LINK](https://data.planetos.com/?_ga=2.11167284.1285555397.1580183579-715137525.1580183579 "LINK") | various | Weather, climate and environmental data |  |
 |  The National Renewable Energy Laboratory | [LINK](https://developer.nrel.gov/ "LINK") | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
