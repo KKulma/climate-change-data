@@ -1,7 +1,7 @@
 # Datasets and open source projects related to Climate Change
 
 ## Content
-- [ML/AI open projects](mlai-open-projects)
+- [ML open projects](#ml-open-projects)
 - [APIs](#apis)
 - [Open Data](#open-data)
 
@@ -18,7 +18,7 @@ This set of resources is based on my own research but feel free to add anything 
 
 
 
-## ML/AI open projects
+## ML open projects
 
 |  **name** | **url** | **description** |
 | --- | --- | --- |
