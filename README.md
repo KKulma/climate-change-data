@@ -1,4 +1,4 @@
-# Datasets API and open source projects related to Climate Change
+# Datasets APIs and open source projects related to Climate Change
 
 ## Content
 - [ML open projects](#ml-open-projects)
