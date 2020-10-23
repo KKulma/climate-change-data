@@ -8,12 +8,12 @@
 ## How to contribute
 This set of resources is based on my own research but feel free to add anything that I might have missed. If you'd like to contribute, feel free to:
 
-1.  create a Pull Request with suggested changes, as described [here](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
+1. Create a Pull Request with suggested changes, as described [here](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
 
-2. create an Issue with included 
-- category (API, dataset, ML project)
-- link to the resource
-- short resource description
+2. Create an Issue with included 
+   - category (API, dataset, ML project)
+   - link to the resource
+   - short resource description
 
 
 
