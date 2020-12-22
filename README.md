@@ -43,6 +43,7 @@ This set of resources is based on my own research but feel free to add anything 
 |  Noise Tube API | [LINK](http://noisetube.net/api_overview "LINK") | noise | Data on noise pollution |  |
 |  Open AQ API | [LINK](https://docs.openaq.org/ "LINK") | air quality | An API for open air quality data | [LINK](https://github.com/ropensci/ropenaq "LINK") |
 |  Open Charge Map API | [LINK](https://openchargemap.org/site/develop#api "LINK") | energy | The global public registry of electric vehicles charging locations |  |
+|  OpenWeatherMap API | [LINK](https://openweathermap.org/api) | weather | Weather and pollution data. Provides free or paid subscriptions. | |
 |  Planet OS API | [LINK](https://data.planetos.com/?_ga=2.11167284.1285555397.1580183579-715137525.1580183579 "LINK") | various | Weather, climate and environmental data |  |
 |  The National Renewable Energy Laboratory | [LINK](https://developer.nrel.gov/ "LINK") | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
 |  United States Environmental Protection Agency | [LINK](https://edg.epa.gov/metadata/catalog/components/components.page# "LINK") | various | Access to EPA's rich datasets |  |
@@ -61,6 +62,7 @@ This set of resources is based on my own research but feel free to add anything 
 |  Data World Data | [LINK](https://data.world/datasets/global-warming "LINK") | various | A range of environmental, geospatial, weather, air, etc. open datasets |
 |  Environmental Intelligence | [LINK](https://github.com/rockita/Environmental_Intelligence "LINK") | various | A GitHub repo collating numerous open data resources on climate change, water, forest, biodiversity, etc. |
 |  Glacier Mass balance data | [LINK](https://datahub.io/core/glacier-mass-balance "LINK") | glaciers | Average cumulative mass balance of "reference" Glaciers worldwide from 1945-2014 sourced from US EPA and the World Glacier Monitoring Service (WGMS). |
+|  Global Carbon Budget | [LINK](https://github.com/openclimatedata/global-carbon-budget) | various | Annual data publication of carbon cycle sources and sinks. |
 |  Global Climate Change Data | [LINK](https://data.world/data-society/global-climate-change-data "LINK") | air temperature | Average land temperature data from 1750－2015 |
 |  Global Gridded Weather Data | [LINK](https://crudata.uea.ac.uk/cru/data/hrg/ "LINK") | temperature, precipitation, sun time, cloud cover, ground frost, vapour pressure, potential evapotranspiration | A large set of land weather data spanning 1901-2018, gridded into 0.5x0.5 deg squares. Data extrapolated from real weather station data. Details in: https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.3711 |
 |  Global Temperature Time Series | [LINK](https://datahub.io/core/global-temp#r "LINK") | air temperature | Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies [i.e. deviations from the corresponding 1951-1980 means]. Global-mean monthly […] and annual means, 1880-present, updated through most recent month. |
