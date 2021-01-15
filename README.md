@@ -37,6 +37,7 @@ This set of resources is based on my own research but feel free to add anything 
 |  Brighter Planet API | [LINK](http://impact.brighterplanet.com/?r= "LINK") | carbon emissions | CM1 can assess CO2 emissions for a wide variety of activities, from transportation to computation to supply chains |  |
 |  Carbon Intensity API | [LINK](https://carbonintensity.org.uk/ "LINK") | carbon intensity | Data and 96+ hour forecast of carbon intensity and generation mix for each country/region/postcode in the UK | [LINK](https://github.com/KKulma/intensegRid "LINK") |
 |  Clean Power Research API | [LINK](https://developers.cleanpower.com/ "LINK") | energy | Irradiance and Weather Data API |  |
+|  ClimaCell Weather API | [LINK](https://www.climacell.co/weather-api/) | weather | Weather and related risks data |  | 
 |  Degree Days API | [LINK](https://www.degreedays.net/api/ "LINK") | weather | Weather Data for Energy Professionals |  |
 |  Green Web Foundation API Service | [LINK](https://api.thegreenwebfoundation.org/ "LINK") | web | Check if a website can be found in the Green Web Database |  |
 |  National Centers for Environmental Information | [LINK](https://www.ncdc.noaa.gov/data-access "LINK") | various | NCEI is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available. Detailed descriptions of the available products and platforms are on their website. | [LINK](https://github.com/ropensci/rnoaa "LINK") |
