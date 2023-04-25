@@ -47,6 +47,7 @@ This set of resources is based on my own research but feel free to add anything 
 |  Noise Tube API | [LINK](http://noisetube.net/api_overview "LINK") | noise | Data on noise pollution |  |
 |  Open AQ API | [LINK](https://docs.openaq.org/ "LINK") | air quality | An API for open air quality data | [LINK](https://github.com/ropensci/ropenaq "LINK") |
 |  Open Charge Map API | [LINK](https://openchargemap.org/site/develop#api "LINK") | energy | The global public registry of electric vehicles charging locations |  |
+|  Open-Meteo API | [LINK](https://open-meteo.com/) | weather, climate | Weather forecast, historical and climate data. Open-Source and free for non-commercial use. | |
 |  OpenWeatherMap API | [LINK](https://openweathermap.org/api) | weather | Weather and pollution data. Provides free or paid subscriptions. | |
 |  Planet OS API | [LINK](https://data.planetos.com/?_ga=2.11167284.1285555397.1580183579-715137525.1580183579 "LINK") | various | Weather, climate and environmental data |  |
 |  The National Renewable Energy Laboratory | [LINK](https://developer.nrel.gov/ "LINK") | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
