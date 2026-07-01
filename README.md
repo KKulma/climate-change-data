@@ -50,6 +50,7 @@ This set of resources is based on my own research but feel free to add anything 
 |  Open-Meteo API | [LINK](https://open-meteo.com/) | weather, climate | Weather forecast, historical and climate data. Open-Source and free for non-commercial use. | |
 |  OpenWeatherMap API | [LINK](https://openweathermap.org/api) | weather | Weather and pollution data. Provides free or paid subscriptions. | |
 |  Planet OS API | [LINK](https://data.planetos.com/?_ga=2.11167284.1285555397.1580183579-715137525.1580183579 "LINK") | various | Weather, climate and environmental data |  |
+|  Plug-In Solar Legality (US) | [LINK](https://pluginsolarhub.org/developers/ "LINK") | energy | Free, no-auth JSON API covering plug-in / balcony solar legal status, average electricity rate, main utilities and current legislation for all 50 US states. CORS-enabled, CC BY 4.0. |  |
 |  The National Renewable Energy Laboratory | [LINK](https://developer.nrel.gov/ "LINK") | energy | Helps access energy data on renewable energy and alternative fuel data. |  |
 |  United States Environmental Protection Agency | [LINK](https://edg.epa.gov/metadata/catalog/components/components.page# "LINK") | various | Access to EPA's rich datasets |  |
 |  Waterservices USGS API | [LINK](https://waterservices.usgs.gov/rest/ "LINK") | water | The service lets you acquire near real-time water data from thousands of sites managed or monitored by the USGS across the US. |  |
